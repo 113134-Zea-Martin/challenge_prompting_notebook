@@ -38,7 +38,6 @@ Ingresar a la pagina de cohere, crerse una cuenta y luego ir a Dashboard --> Api
 Copiar este valor y pegarlo en un archivo que va a llamarse .env (.env es la extension)
 Dentro del .env la api key debe estar asi:
 
-COHERE_API_KEY="1OLq6QrEmdaZQ455gfgpVzXKwvlOWaTQNGGaTTcs1MJ"
 
 
 
